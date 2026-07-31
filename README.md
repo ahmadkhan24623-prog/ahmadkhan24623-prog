@@ -98,48 +98,16 @@ ahmadkhan@github:~$ _
 
 ## 🚀 Featured Repositories
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🎬 [responsive-netflix-ui](https://github.com/ahmadkhan24623-prog/responsive-netflix-ui)
-Modern, fully responsive Netflix UI clone focused on high-end aesthetics, semantic structure, and seamless mobile-to-desktop transitions.
+<a href="https://github.com/ahmadkhan24623-prog/responsive-netflix-ui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=responsive-netflix-ui&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9" width="48%"/></a>
+<a href="https://github.com/ahmadkhan24623-prog/K72"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=K72&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9" width="48%"/></a>
+<a href="https://github.com/ahmadkhan24623-prog/Lotessa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Lotessa&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9" width="48%"/></a>
+<a href="https://github.com/ahmadkhan24623-prog/aeroluxe-private-jet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=aeroluxe-private-jet&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9" width="48%"/></a>
 
-**Stack:** HTML · CSS · JavaScript
-**Live:** [responsive-netflix-ui-d2jj.vercel.app](https://responsive-netflix-ui-d2jj.vercel.app)
+</div>
 
-</td>
-<td width="50%" valign="top">
-
-### 🌀 [K72](https://github.com/ahmadkhan24623-prog/K72)
-A modern, highly immersive and interactive frontend web application inspired by the creative agency K72.
-
-**Stack:** JavaScript · GSAP
-**Live:** [k72-indol.vercel.app](https://k72-indol.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 [Lotessa](https://github.com/ahmadkhan24623-prog/Lotessa)
-A clean, responsive landing page for Lotessa, featuring custom typography and smooth animations.
-
-**Stack:** JavaScript
-**Live:** [lotessa-teal.vercel.app](https://lotessa-teal.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### ✈️ [aeroluxe-private-jet](https://github.com/ahmadkhan24623-prog/aeroluxe-private-jet)
-A premium, high-end landing page template for bespoke private aviation and elite concierge services.
-
-**Stack:** React · TypeScript · Tailwind CSS
-**Live:** [aeroluxe-private-jet.vercel.app](https://aeroluxe-private-jet.vercel.app)
-
-</td>
-</tr>
-</table>
+**Live demos:** [responsive-netflix-ui](https://responsive-netflix-ui-d2jj.vercel.app) · [K72](https://k72-indol.vercel.app) · [Lotessa](https://lotessa-teal.vercel.app) · [aeroluxe-private-jet](https://aeroluxe-private-jet.vercel.app)
 
 > An "Amazon Clone" repository was not found on this GitHub account at the time of writing — if it exists under a different name, let me know and I'll add it here.
 
@@ -147,14 +115,16 @@ A premium, high-end landing page template for bespoke private aviation and elite
 
 ## 🧩 Selected Projects
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **[Tattoo-Home-Page](https://github.com/ahmadkhan24623-prog/Tattoo-Home-Page)** | A cinematic dark-themed landing page for a luxury tattoo studio | React · TypeScript · Tailwind CSS · GSAP | [Live](https://tattoo-home-page.vercel.app) |
-| **[Tail-Admin](https://github.com/ahmadkhan24623-prog/Tail-Admin)** | A Tailwind-based admin dashboard interface | TypeScript · Tailwind CSS | [Live](https://tail-admin-cyan.vercel.app) |
-| **[sundown](https://github.com/ahmadkhan24623-prog/sundown)** | A modern frontend web application | TypeScript | [Live](https://sundown-inky-chi.vercel.app) |
-| **[Hero-Section](https://github.com/ahmadkhan24623-prog/Hero-Section)** | A minimalist, floating header/navigation component | TypeScript | [Live](https://hero-section-tau-brown.vercel.app) |
-| **[animejs-portfolio](https://github.com/ahmadkhan24623-prog/animejs-portfolio)** | A portfolio site built around Anime.js-driven motion | CSS · JavaScript | [Live](https://animejs-portfolio-xm97.vercel.app) |
-| **[tic-tac-toe-pro](https://github.com/ahmadkhan24623-prog/tic-tac-toe-pro)** | A clean, responsive Tic Tac Toe game with win/draw detection | HTML5 · CSS3 · Vanilla JS | [Live](https://tic-tac-toe-pro-3mhx.vercel.app/) |
+<div align="center">
+
+<a href="https://github.com/ahmadkhan24623-prog/Tattoo-Home-Page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Tattoo-Home-Page&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9" width="48%"/></a>
+<a href="https://github.com/ahmadkhan24623-prog/Tail-Admin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Tail-Admin&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9" width="48%"/></a>
+<a href="https://github.com/ahmadkhan24623-prog/sundown"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=sundown&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9" width="48%"/></a>
+<a href="https://github.com/ahmadkhan24623-prog/Hero-Section"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Hero-Section&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9" width="48%"/></a>
+<a href="https://github.com/ahmadkhan24623-prog/animejs-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=animejs-portfolio&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9" width="48%"/></a>
+<a href="https://github.com/ahmadkhan24623-prog/tic-tac-toe-pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=tic-tac-toe-pro&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9" width="48%"/></a>
+
+</div>
 
 🔎 Explore all repositories on my [GitHub profile](https://github.com/ahmadkhan24623-prog?tab=repositories).
 
@@ -162,14 +132,14 @@ A premium, high-end landing page template for bespoke private aviation and elite
 
 ## 🧠 Currently Learning
 
-```text
-Frontend Engineering    ████████████████████░░  Advanced
-React / Next.js         ██████████████████░░░░  Building
-TypeScript               ██████████████████░░░░  Improving
-GSAP / Motion            ███████████████████░░░  Advanced UI
-DSA / C++                ███████████████░░░░░░░  Practicing
-Backend Development      ██████████░░░░░░░░░░░░  Expanding
-```
+<table>
+<tr><td width="220"><b>Frontend Engineering</b></td><td><img src="https://progress-bar.dev/90/?scale=100&width=260&color=58a6ff&suffix=%20"/></td><td><i>Advanced</i></td></tr>
+<tr><td><b>React / Next.js</b></td><td><img src="https://progress-bar.dev/80/?scale=100&width=260&color=58a6ff&suffix=%20"/></td><td><i>Building</i></td></tr>
+<tr><td><b>TypeScript</b></td><td><img src="https://progress-bar.dev/75/?scale=100&width=260&color=58a6ff&suffix=%20"/></td><td><i>Improving</i></td></tr>
+<tr><td><b>GSAP / Motion</b></td><td><img src="https://progress-bar.dev/85/?scale=100&width=260&color=39d3ff&suffix=%20"/></td><td><i>Advanced UI</i></td></tr>
+<tr><td><b>DSA / C++</b></td><td><img src="https://progress-bar.dev/65/?scale=100&width=260&color=39d3ff&suffix=%20"/></td><td><i>Practicing</i></td></tr>
+<tr><td><b>Backend Development</b></td><td><img src="https://progress-bar.dev/45/?scale=100&width=260&color=8b93a1&suffix=%20"/></td><td><i>Expanding</i></td></tr>
+</table>
 
 *These bars are a visual representation of my current learning focus — not scientifically measured skill percentages.*
 
