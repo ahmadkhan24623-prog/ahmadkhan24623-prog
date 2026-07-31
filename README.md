@@ -1,217 +1,243 @@
 <div align="center">
 
-👋 Hi, I'm Ahmad Khan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B26,100:1A2130&height=160&section=header&text=AHMAD%20KHAN&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=Frontend%20Web%20Developer&descAlignY=75&descSize=18&descColor=39D3FF" width="100%"/>
 
-Frontend Web Developer • React • TypeScript • Tailwind CSS • GSAP
+### React • TypeScript • Tailwind CSS • GSAP
 
-<p>
-  <a href="https://github.com/ahmadkhan24623-prog">
-    <img src="https://komarev.com/ghpvc/?username=ahmadkhan24623-prog&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/ahmadkhan24623-prog?tab=followers">
-    <img src="https://img.shields.io/github/followers/ahmadkhan24623-prog?style=for-the-badge&logo=github&label=FOLLOWERS&color=7aa2f7" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/ahmadkhan24623-prog?tab=repositories">
-    <img src="https://img.shields.io/badge/20%2B-REPOSITORIES-1a1b26?style=for-the-badge&logo=github" alt="Repositories"/>
-  </a>
-</p>
+*Building responsive, interactive and high-quality web experiences with modern frontend technologies.*
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b26,100:7aa2f7&height=140&section=header&text=BUILD%20%7C%20CREATE%20%7C%20IMPROVE&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=55"
-width="100%"
-alt="Header"
-/>
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ahmadkhan24623-prog&style=for-the-badge&color=0D1117&labelColor=161B26&label=PROFILE+VIEWS)](https://github.com/ahmadkhan24623-prog)
+[![GitHub followers](https://img.shields.io/github/followers/ahmadkhan24623-prog?style=for-the-badge&logo=github&label=FOLLOWERS&color=0D1117&labelColor=161B26)](https://github.com/ahmadkhan24623-prog?tab=followers)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahmadkhan24623-prog&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&color=0D1117&labelColor=161B26&logo=github)](https://github.com/ahmadkhan24623-prog?tab=repositories)
 
 </div>
 
-💻 SYSTEM.INFO // PROFILE
+<br/>
 
-ahmadkhan@lab:~/.profile --live
+## 💻 `whoami`
 
-Subject:      Ahmad Khan
-Role:         Frontend Web Developer
-Focus:        React + TypeScript + Tailwind CSS + GSAP
-University:   PMAS-Arid Agriculture University Rawalpindi
-Location:     Rawalpindi, Pakistan
-Current_Mode: Building responsive & interactive web applications
-Goal:         Becoming a Full-Stack Developer
+```bash
+ahmadkhan@github:~$ whoami
 
-I build modern, responsive interfaces with clean code, smooth interactions, and a strong focus on user experience.
+Name           : Ahmad Khan
+Role           : Frontend Web Developer
+Focus          : React + TypeScript + Tailwind CSS + GSAP
+University     : PMAS-Arid Agriculture University, Rawalpindi
+Location       : Rawalpindi, Pakistan
+Current Status : Building responsive, interactive web applications
+Goal           : Full-Stack Developer
 
-🚀 ABOUT ME
+ahmadkhan@github:~$ _
+```
 
-I'm a Frontend Web Developer focused on creating polished and responsive web experiences.
+<br/>
 
-⚛️ Building with React.js
+## 🚀 About Me
 
-🟦 Writing scalable interfaces with TypeScript
+- 🖥️ I build responsive, production-quality **web applications** with clean, maintainable code
+- ⚛️ I work primarily with **React** and **TypeScript** to build scalable interfaces
+- 🎨 I design modern UIs using **Tailwind CSS**
+- 🌀 I create smooth, premium interactions using **GSAP** and **ScrollTrigger**
+- 🧠 I have a solid foundation in **C++** and **Data Structures & Algorithms**
+- 🔧 I use **Git** and **GitHub** as part of my everyday development workflow
+- 🌐 I'm currently expanding into **backend and full-stack development**
+- 📚 I learn continuously by building real, hands-on projects
 
-🎨 Styling with Tailwind CSS
+<br/>
 
-🌀 Creating premium interactions with GSAP & ScrollTrigger
+## 🛠️ Tech Stack
 
-🧠 Strong foundation in C++ & Data Structures
+**Frontend**
 
-🔧 Working with Git & GitHub
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Stack"/>
 
-🌐 Exploring backend technologies on my journey toward full-stack development
+**Animation / Creative Development**
 
-📚 Continuously learning, building, and improving
+<img src="https://skillicons.dev/icons?i=gsap,threejs" alt="Animation Stack"/>
 
-🛠️ TECH STACK
+**Programming**
 
-Frontend
+<img src="https://skillicons.dev/icons?i=cpp" alt="Programming"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend technologies"/>
-</p>
+**Tools**
 
-Animation & UI
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Tools"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=gsap,threejs" alt="Animation and 3D technologies"/>
-</p>
+<br/>
 
-Programming & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,npm" alt="Development technologies"/>
-</p>
-
-📊 GITHUB // SYSTEM STATUS
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=ahmadkhan24623-prog&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c9d1d9&ring_color=7aa2f7&include_all_commits=true"
-height="175"
-alt="Ahmad Khan GitHub statistics"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmadkhan24623-prog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhan24623-prog&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="39%"/>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhan24623-prog&layout=compact&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c9d1d9&langs_count=8"
-height="175"
-alt="Top programming languages"
-/>
-
-<br/><br/>
-
-<img
-src="https://streak-stats.demolab.com?user=ahmadkhan24623-prog&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7"
-width="70%"
-alt="GitHub contribution streak"
-/>
+<img src="https://streak-stats.demolab.com/?user=ahmadkhan24623-prog&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D3FF&fire=58A6FF&currStreakLabel=58A6FF" width="60%"/>
 
 </div>
 
-📈 CONTRIBUTION // ACTIVITY
+> Stats are generated by third-party services ([github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)) reading live data from GitHub — figures are not hard-coded.
+
+<br/>
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadkhan24623-prog&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true"
-width="100%"
-alt="GitHub contribution activity graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadkhan24623-prog&bg_color=0D1117&color=39D3FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
-🧩 FEATURED PROJECTS
+*Consistency compounds — every contribution is another step forward.*
 
-🎬 Netflix Clone
+*(Graph generated by a third-party service — not an official GitHub visualization.)*
 
-A responsive Netflix-inspired interface focused on modern layouts, reusable components, and polished UI.
+<br/>
 
-Built with: React • JavaScript • CSS
+## 🚀 Featured Repositories
 
-🌀 K72 Clone
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A creative website recreation focused on advanced layouts, motion, transitions, and interactive sections.
+### 🎬 [responsive-netflix-ui](https://github.com/ahmadkhan24623-prog/responsive-netflix-ui)
+Modern, fully responsive Netflix UI clone focused on high-end aesthetics, semantic structure, and seamless mobile-to-desktop transitions.
 
-Built with: React • GSAP • Tailwind CSS
+**Stack:** HTML · CSS · JavaScript
+**Live:** [responsive-netflix-ui-d2jj.vercel.app](https://responsive-netflix-ui-d2jj.vercel.app)
 
-🛒 Amazon Clone
+</td>
+<td width="50%" valign="top">
 
-An e-commerce interface recreation built to practice reusable UI components and responsive design.
+### 🌀 [K72](https://github.com/ahmadkhan24623-prog/K72)
+A modern, highly immersive and interactive frontend web application inspired by the creative agency K72.
 
-Built with: React • JavaScript • CSS
+**Stack:** JavaScript · GSAP
+**Live:** [k72-indol.vercel.app](https://k72-indol.vercel.app)
 
-💻 Lotessa Clone
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A modern frontend recreation focused on visual hierarchy, responsive layouts, and interactive UI.
+### 💻 [Lotessa](https://github.com/ahmadkhan24623-prog/Lotessa)
+A clean, responsive landing page for Lotessa, featuring custom typography and smooth animations.
 
-Built with: React • Tailwind CSS
+**Stack:** JavaScript
+**Live:** [lotessa-teal.vercel.app](https://lotessa-teal.vercel.app)
 
-🔎 Explore all projects on my GitHub repositories.
+</td>
+<td width="50%" valign="top">
 
-🧠 CURRENTLY LEARNING
+### ✈️ [aeroluxe-private-jet](https://github.com/ahmadkhan24623-prog/aeroluxe-private-jet)
+A premium, high-end landing page template for bespoke private aviation and elite concierge services.
 
-Frontend
-████████████████████████████████████████  Advanced
+**Stack:** React · TypeScript · Tailwind CSS
+**Live:** [aeroluxe-private-jet.vercel.app](https://aeroluxe-private-jet.vercel.app)
 
-React
-██████████████████████████████████████░░  Building
+</td>
+</tr>
+</table>
 
-TypeScript
-████████████████████████████████████░░░░  Improving
+> An "Amazon Clone" repository was not found on this GitHub account at the time of writing — if it exists under a different name, let me know and I'll add it here.
 
-GSAP / Motion
-██████████████████████████████████░░░░░░  Advanced UI
+<br/>
 
-DSA / C++
-████████████████████████████████░░░░░░░░  Practicing
+## 🧩 Selected Projects
 
-Backend
-██████████████████████░░░░░░░░░░░░░░░░░░  Expanding
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **[Tattoo-Home-Page](https://github.com/ahmadkhan24623-prog/Tattoo-Home-Page)** | A cinematic dark-themed landing page for a luxury tattoo studio | React · TypeScript · Tailwind CSS · GSAP | [Live](https://tattoo-home-page.vercel.app) |
+| **[Tail-Admin](https://github.com/ahmadkhan24623-prog/Tail-Admin)** | A Tailwind-based admin dashboard interface | TypeScript · Tailwind CSS | [Live](https://tail-admin-cyan.vercel.app) |
+| **[sundown](https://github.com/ahmadkhan24623-prog/sundown)** | A modern frontend web application | TypeScript | [Live](https://sundown-inky-chi.vercel.app) |
+| **[Hero-Section](https://github.com/ahmadkhan24623-prog/Hero-Section)** | A minimalist, floating header/navigation component | TypeScript | [Live](https://hero-section-tau-brown.vercel.app) |
+| **[animejs-portfolio](https://github.com/ahmadkhan24623-prog/animejs-portfolio)** | A portfolio site built around Anime.js-driven motion | CSS · JavaScript | [Live](https://animejs-portfolio-xm97.vercel.app) |
+| **[tic-tac-toe-pro](https://github.com/ahmadkhan24623-prog/tic-tac-toe-pro)** | A clean, responsive Tic Tac Toe game with win/draw detection | HTML5 · CSS3 · Vanilla JS | [Live](https://tic-tac-toe-pro-3mhx.vercel.app/) |
 
-🎯 2026 // ROADMAP
+🔎 Explore all repositories on my [GitHub profile](https://github.com/ahmadkhan24623-prog?tab=repositories).
 
-[✓] HTML / CSS
-[✓] JavaScript
-[✓] React.js
-[✓] Tailwind CSS
-[✓] TypeScript
-[✓] Git & GitHub
-[✓] GSAP / Interactive UI
-[→] Advanced React & Next.js
-[→] Backend Development
-[→] APIs & Databases
-[→] Full-Stack Applications
+<br/>
 
-🏆 WHAT I LIKE BUILDING
+## 🧠 Currently Learning
 
-┌──────────────────────────────────────────────┐
-│  ⚡ Fast & Responsive Interfaces             │
-│  🎨 Premium UI / UX                          │
-│  🌀 Smooth GSAP Animations                   │
-│  🧩 Reusable React Components                │
-│  📱 Mobile-First Responsive Layouts          │
-│  🧠 Clean & Maintainable Code                │
-│  🚀 Real-World Full-Stack Projects           │
-└──────────────────────────────────────────────┘
+```text
+Frontend Engineering    ████████████████████░░  Advanced
+React / Next.js         ██████████████████░░░░  Building
+TypeScript               ██████████████████░░░░  Improving
+GSAP / Motion            ███████████████████░░░  Advanced UI
+DSA / C++                ███████████████░░░░░░░  Practicing
+Backend Development      ██████████░░░░░░░░░░░░  Expanding
+```
 
-🤝 LET'S CONNECT
+*These bars are a visual representation of my current learning focus — not scientifically measured skill percentages.*
+
+<br/>
+
+## 🔭 Currently Building
+
+⚛️ Advanced React applications&nbsp;&nbsp;·&nbsp;&nbsp;🎨 Premium UI / UX&nbsp;&nbsp;·&nbsp;&nbsp;🌀 GSAP animations
+📱 Responsive interfaces&nbsp;&nbsp;·&nbsp;&nbsp;🧠 Data Structures & Algorithms&nbsp;&nbsp;·&nbsp;&nbsp;🌐 Backend development&nbsp;&nbsp;·&nbsp;&nbsp;🚀 Full-stack applications
+
+<br/>
+
+## 🎯 Development Roadmap
+
+**Completed**
+- [x] HTML / CSS
+- [x] JavaScript
+- [x] React.js
+- [x] Tailwind CSS
+- [x] TypeScript
+- [x] Git & GitHub
+- [x] GSAP / Interactive UI
+
+**Currently expanding**
+- [ ] Next.js
+- [ ] Backend Development
+- [ ] REST APIs
+- [ ] Databases
+- [ ] Authentication
+- [ ] Full-Stack Applications
+
+<br/>
+
+## 📋 Profile Snapshot
+
+```text
+PROFILE
+-----------------------------------------
+Developer      : Ahmad Khan
+Role           : Frontend Web Developer
+Primary Stack  : React / TypeScript
+UI             : Tailwind CSS / GSAP
+Languages      : JavaScript / TypeScript / C++
+Focus          : Full-Stack Development
+Status         : Building & Learning
+-----------------------------------------
+```
+
+<br/>
+
+## 🤝 Connect
 
 <div align="center">
 
-<a href="https://github.com/ahmadkhan24623-prog">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-ahmadkhan24623--prog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmadkhan24623-prog)
 
-<br/><br/>
-
-Open to learning • collaboration • interesting web projects
+*Open to learning, collaboration, and interesting web projects.*
 
 </div>
 
+<br/>
+
 <div align="center">
 
-console.log("Keep building. Keep learning. Keep improving.");
+```
+> console.log("Keep building. Keep learning. Keep improving.");
+```
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:0d1117&height=100&section=footer"
-width="100%"
-alt="Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2130,50:161B26,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
