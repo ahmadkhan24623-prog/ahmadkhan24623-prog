@@ -106,14 +106,23 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadkhan24623-prog&show_icons=true&hide_border=true&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&ring_color=3282b8&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub Stats" style="border-radius: 8px;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhan24623-prog&layout=compact&hide_border=true&bg_color=1a1f3a&title_color=00d4ff&text_color=e0e0e0&langs_count=10" width="48%" alt="Top Languages" style="border-radius: 8px;"/>
+### Key Metrics
+
+| 📊 Metric | 📈 Value | ⏱️ Period |
+|-----------|---------|----------|
+| **Total Contributions** | 179+ | Jun 11, 2025 - Present |
+| **Current Streak** | 4 days | Jul 29 - Aug 1 |
+| **Longest Streak** | 7 days | May 18 - May 24 |
+| **Public Repositories** | 25+ | All Time |
+| **Total Followers** | Active | Growing |
+
+<br/>
+
+<a href="https://github.com/ahmadkhan24623-prog">
+  <img src="https://img.shields.io/badge/📊%20View%20My%20GitHub-00d4ff?style=for-the-badge&logoColor=white&color=0f4c75"/>
+</a>
 
 </div>
-
-<img src="https://streak-stats.demolab.com/?user=ahmadkhan24623-prog&theme=city_lights&hide_border=true&background=1a1f3a&ring=00d4ff&fire=64ffda&currStreakLabel=00d4ff" width="100%" alt="GitHub Streak" style="border-radius: 8px; margin: 1rem 0;"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadkhan24623-prog&bg_color=1a1f3a&color=64ffda&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity" style="border-radius: 8px;"/>
 
 ---
 
@@ -202,33 +211,21 @@ An interactive portfolio built with Anime.js, showcasing smooth animations and c
 
 ---
 
-## 🌟 Featured Projects
+## ⭐ Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/ahmadkhan24623-prog/K72">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=K72&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="K72" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
-</a>
-<a href="https://github.com/ahmadkhan24623-prog/Tail-Admin">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Tail-Admin&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Tail Admin" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
-</a>
+<p>
+  <a href="https://github.com/ahmadkhan24623-prog/K72">K72</a> • 
+  <a href="https://github.com/ahmadkhan24623-prog/Tail-Admin">Tail Admin</a> • 
+  <a href="https://github.com/ahmadkhan24623-prog/Tattoo-Home-Page">Tattoo</a> • 
+  <a href="https://github.com/ahmadkhan24623-prog/sundown">Sundown</a> • 
+  <a href="https://github.com/ahmadkhan24623-prog/Hero-Section">Hero Section</a>
+</p>
 
-<a href="https://github.com/ahmadkhan24623-prog/Tattoo-Home-Page">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Tattoo-Home-Page&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Tattoo" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
+<a href="https://github.com/ahmadkhan24623-prog?tab=repositories">
+  <img src="https://img.shields.io/badge/👉%20Explore%20All%20Repositories-00d4ff?style=for-the-badge&logoColor=white&color=0f4c75"/>
 </a>
-<a href="https://github.com/ahmadkhan24623-prog/sundown">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=sundown&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Sundown" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
-</a>
-
-<a href="https://github.com/ahmadkhan24623-prog/Hero-Section">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Hero-Section&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Hero Section" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
-</a>
-
-</div>
-
-<div align="center">
-
-**[👉 Explore All Repositories](https://github.com/ahmadkhan24623-prog?tab=repositories)**
 
 </div>
 
