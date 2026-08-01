@@ -117,50 +117,118 @@
 
 ---
 
+## 📌 Pinned Repositories
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### [Lotessa](https://github.com/ahmadkhan24623-prog/Lotessa) `Public`
+
+A clean, responsive landing page for Lotessa, featuring custom typography and smooth animations
+
+**🟡 JavaScript**
+
+[View Demo](https://lotessa-teal.vercel.app) • [View Repo](https://github.com/ahmadkhan24623-prog/Lotessa)
+
+</td>
+<td width="50%" valign="top">
+
+### [Happy-Birthday-Surprise](https://github.com/ahmadkhan24623-prog/Happy-Birthday-Surprise) `Public`
+
+A beautiful Happy Birthday website with animations, gallery, and special message at end.
+
+**🟣 CSS**
+
+[View Demo](#) • [View Repo](https://github.com/ahmadkhan24623-prog/Happy-Birthday-Surprise)
+
+</td>
+</tr>
+<tr height="20"></tr>
+<tr>
+<td width="50%" valign="top">
+
+### [responsive-netflix-ui](https://github.com/ahmadkhan24623-prog/responsive-netflix-ui) `Public`
+
+Modern, fully responsive Netflix UI clone. Focused on high-end aesthetics, semantic structure, and seamless mobile-to-desktop transitions.
+
+**🔴 HTML**
+
+[View Demo](https://responsive-netflix-ui-d2jj.vercel.app) • [View Repo](https://github.com/ahmadkhan24623-prog/responsive-netflix-ui)
+
+</td>
+<td width="50%" valign="top">
+
+### [tic-tac-toe-pro](https://github.com/ahmadkhan24623-prog/tic-tac-toe-pro) `Public`
+
+A clean, responsive Tic Tac Toe game built with HTML5, CSS3, and Vanilla JavaScript. Features a modern UI and logic for win/draw detection
+
+**🟣 CSS**
+
+[View Demo](#) • [View Repo](https://github.com/ahmadkhan24623-prog/tic-tac-toe-pro)
+
+</td>
+</tr>
+<tr height="20"></tr>
+<tr>
+<td width="50%" valign="top">
+
+### [aeroluxe-private-jet](https://github.com/ahmadkhan24623-prog/aeroluxe-private-jet) `Public`
+
+A premium, high-end landing page template for bespoke private aviation and elite concierge services, built with React, Tailwind CSS, and Lucide Icons.
+
+**🔵 TypeScript**
+
+[View Demo](https://aeroluxe-private-jet.vercel.app) • [View Repo](https://github.com/ahmadkhan24623-prog/aeroluxe-private-jet)
+
+</td>
+<td width="50%" valign="top">
+
+### [animejs-portfolio](https://github.com/ahmadkhan24623-prog/animejs-portfolio) `Public`
+
+An interactive portfolio built with Anime.js, showcasing smooth animations and creative interactions.
+
+**🟣 CSS**
+
+[View Demo](#) • [View Repo](https://github.com/ahmadkhan24623-prog/animejs-portfolio)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🌟 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/ahmadkhan24623-prog/Lotessa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Lotessa&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Lotessa" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
-</a>
 <a href="https://github.com/ahmadkhan24623-prog/K72">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=K72&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="K72" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
-</a>
-
-<a href="https://github.com/ahmadkhan24623-prog/responsive-netflix-ui">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=responsive-netflix-ui&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Netflix UI" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
-</a>
-<a href="https://github.com/ahmadkhan24623-prog/aeroluxe-private-jet">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=aeroluxe-private-jet&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Aeroluxe" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
-</a>
-
-<a href="https://github.com/ahmadkhan24623-prog/Tattoo-Home-Page">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Tattoo-Home-Page&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Tattoo" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
 </a>
 <a href="https://github.com/ahmadkhan24623-prog/Tail-Admin">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Tail-Admin&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Tail Admin" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
 </a>
 
+<a href="https://github.com/ahmadkhan24623-prog/Tattoo-Home-Page">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Tattoo-Home-Page&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Tattoo" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
+</a>
 <a href="https://github.com/ahmadkhan24623-prog/sundown">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=sundown&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Sundown" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
 </a>
+
 <a href="https://github.com/ahmadkhan24623-prog/Hero-Section">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Hero-Section&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Hero Section" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
 </a>
 
-### 🔗 Live Demos & Source Code
+</div>
 
-| Project | Live Demo | Repository |
-|---------|-----------|------------|
-| **Lotessa** | [🚀 View Live](https://lotessa-teal.vercel.app) | [💻 Source Code](https://github.com/ahmadkhan24623-prog/Lotessa) |
-| **K72** | [🚀 View Live](https://k72-indol.vercel.app) | [💻 Source Code](https://github.com/ahmadkhan24623-prog/K72) |
-| **Netflix UI** | [🚀 View Live](https://responsive-netflix-ui-d2jj.vercel.app) | [💻 Source Code](https://github.com/ahmadkhan24623-prog/responsive-netflix-ui) |
-| **Aeroluxe** | [🚀 View Live](https://aeroluxe-private-jet.vercel.app) | [💻 Source Code](https://github.com/ahmadkhan24623-prog/aeroluxe-private-jet) |
+<div align="center">
 
-<br/>
-
-**[👉 View All Repositories](https://github.com/ahmadkhan24623-prog?tab=repositories)**
+**[👉 Explore All Repositories](https://github.com/ahmadkhan24623-prog?tab=repositories)**
 
 </div>
 
