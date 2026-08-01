@@ -1,20 +1,30 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,45,120,250&height=200&section=header&text=AHMAD%20KHAN&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f3a,50:0f4c75,100:3282b8&height=280&section=header&text=AHMAD%20KHAN&fontSize=90&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Web%20Developer%20%7C%20React%20Specialist&descAlignY=70&descSize=22&descColor=64ffda" width="100%"/>
+
+</div>
+
+---
+
+### 🚀 **Building Premium Web Experiences**
 
 <div align="center">
 
-## 🚀 Frontend Web Developer | React Specialist | UI/UX Enthusiast
+**React** • **TypeScript** • **Tailwind CSS** • **GSAP** • **Next.js** • **Three.js**
 
-### **React • TypeScript • Tailwind CSS • GSAP • Next.js**
-
-<p>
-  <i>Crafting high-performance, visually stunning web experiences with cutting-edge frontend technologies.</i>
-</p>
+<p><i>Crafting high-performance, visually stunning web applications with cutting-edge frontend technologies and modern design principles.</i></p>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/ahmadkhan24623-prog?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=1f6feb&color=0d1117&logoColor=58a6ff)](https://github.com/ahmadkhan24623-prog)
-[![GitHub Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahmadkhan24623-prog&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&color=0d1117&labelColor=1f6feb&logo=github&logoColor=58a6ff)](https://github.com/ahmadkhan24623-prog?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=ahmadkhan24623-prog&style=for-the-badge&color=0d1117&labelColor=1f6feb&label=PROFILE%20VIEWS)](https://github.com/ahmadkhan24623-prog)
+<a href="https://github.com/ahmadkhan24623-prog">
+  <img src="https://img.shields.io/github/followers/ahmadkhan24623-prog?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0f4c75&color=1a1f3a&logoColor=00d4ff" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/ahmadkhan24623-prog?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahmadkhan24623-prog&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&color=1a1f3a&labelColor=0f4c75&logo=github&logoColor=00d4ff" alt="Repositories"/>
+</a>
+<a href="https://github.com/ahmadkhan24623-prog">
+  <img src="https://komarev.com/ghpvc/?username=ahmadkhan24623-prog&style=for-the-badge&color=1a1f3a&labelColor=0f4c75&label=PROFILE%20VIEWS" alt="Profile Views"/>
+</a>
 
 </div>
 
@@ -22,68 +32,88 @@
 
 ## 💼 About Me
 
-```
-🎯 Frontend Developer | React + TypeScript Specialist | Animation Enthusiast
-📍 Rawalpindi, Pakistan
-🎓 PMAS-Arid Agriculture University
-🌱 Currently Expanding: Next.js, Backend Development, Full-Stack Architecture
-```
+<div align="left">
 
-With a passion for clean code and pixel-perfect interfaces, I specialize in building **responsive, high-performance web applications** that users love. My work combines modern frontend frameworks with creative animations to deliver memorable digital experiences.
+**Frontend Developer** focused on building beautiful, performant web applications with modern technologies.
 
-### What I Do Best
+| 🎯 Role | React + TypeScript Specialist | Animation & Motion Enthusiast |
+|---------|------|------|
+| 📍 Based | Rawalpindi, Pakistan | |
+| 🎓 Education | PMAS-Arid Agriculture University | |
+| 🌱 Growing | Next.js • Backend • Full-Stack Architecture | |
 
-- ⚛️ **React Architecture** — Building scalable, component-driven interfaces with best practices
-- 🎨 **Modern UI Design** — Crafting stunning interfaces with Tailwind CSS and custom styling
-- ✨ **Interactive Experiences** — Premium animations and smooth interactions with GSAP
-- 📱 **Responsive Development** — Mobile-first designs that work flawlessly across all devices
-- 🔧 **Clean Code** — Maintainable, well-structured TypeScript for long-term scalability
-- 🚀 **Performance Optimization** — Fast-loading, optimized web applications
+### What I Specialize In
 
----
-
-## 🛠️ Tech Stack
-
-### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-### **Animation & Creative Development**
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Anime.js](https://img.shields.io/badge/Anime.js-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-### **Programming & DSA**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Data Structures](https://img.shields.io/badge/DSA-FF6B6B?style=flat-square&logo=codechef&logoColor=white)
-
-### **Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadkhan24623-prog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhan24623-prog&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10" width="48%" alt="Top Languages"/>
+- **⚛️ React Architecture** — Scalable, component-driven interfaces with best practices & design patterns
+- **🎨 UI/UX Design** — Stunning interfaces with Tailwind CSS, custom styling, and modern design systems
+- **✨ Interactive Motion** — Premium animations and smooth interactions using GSAP, Framer Motion & ScrollTrigger
+- **📱 Responsive Development** — Mobile-first design that works flawlessly across all devices & screen sizes
+- **🔧 Clean Code** — Well-structured TypeScript with emphasis on maintainability and scalability
+- **⚡ Performance** — Optimized web applications with fast load times and smooth user experiences
 
 </div>
 
-<img src="https://streak-stats.demolab.com/?user=ahmadkhan24623-prog&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D3FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" alt="GitHub Streak"/>
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadkhan24623-prog&bg_color=0D1117&color=39D3FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Activity"/>
+## 🛠️ Tech Stack & Tools
+
+<details open>
+<summary><b>Frontend Development</b></summary>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Animation & Creative Development</b></summary>
+
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Programming & DSA</b></summary>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Data Structures & Algorithms](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Development Tools & Platforms</b></summary>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Analytics & Contributions
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmadkhan24623-prog&show_icons=true&hide_border=true&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&ring_color=3282b8&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub Stats" style="border-radius: 8px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadkhan24623-prog&layout=compact&hide_border=true&bg_color=1a1f3a&title_color=00d4ff&text_color=e0e0e0&langs_count=10" width="48%" alt="Top Languages" style="border-radius: 8px;"/>
+
+</div>
+
+<img src="https://streak-stats.demolab.com/?user=ahmadkhan24623-prog&theme=city_lights&hide_border=true&background=1a1f3a&ring=00d4ff&fire=64ffda&currStreakLabel=00d4ff" width="100%" alt="GitHub Streak" style="border-radius: 8px; margin: 1rem 0;"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadkhan24623-prog&bg_color=1a1f3a&color=64ffda&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity" style="border-radius: 8px;"/>
 
 ---
 
@@ -91,81 +121,46 @@ With a passion for clean code and pixel-perfect interfaces, I specialize in buil
 
 <div align="center">
 
-### **Premium Projects**
-
-<table>
-<tr>
-<td align="center" width="50%">
 <a href="https://github.com/ahmadkhan24623-prog/Lotessa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Lotessa&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9&border_color=30363D" alt="Lotessa"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Lotessa&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Lotessa" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
 </a>
-<br/>
-<a href="https://lotessa-teal.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</td>
-<td align="center" width="50%">
 <a href="https://github.com/ahmadkhan24623-prog/K72">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=K72&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9&border_color=30363D" alt="K72"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=K72&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="K72" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
 </a>
-<br/>
-<a href="https://k72-indol.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
+
 <a href="https://github.com/ahmadkhan24623-prog/responsive-netflix-ui">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=responsive-netflix-ui&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9&border_color=30363D" alt="Netflix UI"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=responsive-netflix-ui&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Netflix UI" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
 </a>
-<br/>
-<a href="https://responsive-netflix-ui-d2jj.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</td>
-<td align="center" width="50%">
 <a href="https://github.com/ahmadkhan24623-prog/aeroluxe-private-jet">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=aeroluxe-private-jet&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9&border_color=30363D" alt="Aeroluxe"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=aeroluxe-private-jet&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Aeroluxe" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
 </a>
-<br/>
-<a href="https://aeroluxe-private-jet.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</td>
-</tr>
-</table>
 
-### **Additional Projects**
-
-<table>
-<tr>
-<td align="center" width="50%">
 <a href="https://github.com/ahmadkhan24623-prog/Tattoo-Home-Page">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Tattoo-Home-Page&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9&border_color=30363D" alt="Tattoo"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Tattoo-Home-Page&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Tattoo" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
 </a>
-</td>
-<td align="center" width="50%">
 <a href="https://github.com/ahmadkhan24623-prog/Tail-Admin">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Tail-Admin&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9&border_color=30363D" alt="Tail Admin"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Tail-Admin&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Tail Admin" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
 </a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/ahmadkhan24623-prog/sundown">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=sundown&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9&border_color=30363D" alt="Sundown"/>
-</a>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/ahmadkhan24623-prog/Hero-Section">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Hero-Section&bg_color=0D1117&title_color=58A6FF&icon_color=39D3FF&text_color=C9D1D9&border_color=30363D" alt="Hero Section"/>
-</a>
-</td>
-</tr>
-</table>
 
-**[👉 Explore All Repositories](https://github.com/ahmadkhan24623-prog?tab=repositories)**
+<a href="https://github.com/ahmadkhan24623-prog/sundown">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=sundown&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Sundown" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
+</a>
+<a href="https://github.com/ahmadkhan24623-prog/Hero-Section">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadkhan24623-prog&repo=Hero-Section&bg_color=1a1f3a&title_color=00d4ff&icon_color=64ffda&text_color=e0e0e0&border_color=0f4c75" alt="Hero Section" width="48%" style="margin: 0.5%; border-radius: 8px;"/>
+</a>
+
+### 🔗 Live Demos & Source Code
+
+| Project | Live Demo | Repository |
+|---------|-----------|------------|
+| **Lotessa** | [🚀 View Live](https://lotessa-teal.vercel.app) | [💻 Source Code](https://github.com/ahmadkhan24623-prog/Lotessa) |
+| **K72** | [🚀 View Live](https://k72-indol.vercel.app) | [💻 Source Code](https://github.com/ahmadkhan24623-prog/K72) |
+| **Netflix UI** | [🚀 View Live](https://responsive-netflix-ui-d2jj.vercel.app) | [💻 Source Code](https://github.com/ahmadkhan24623-prog/responsive-netflix-ui) |
+| **Aeroluxe** | [🚀 View Live](https://aeroluxe-private-jet.vercel.app) | [💻 Source Code](https://github.com/ahmadkhan24623-prog/aeroluxe-private-jet) |
+
+<br/>
+
+**[👉 View All Repositories](https://github.com/ahmadkhan24623-prog?tab=repositories)**
 
 </div>
 
@@ -268,12 +263,29 @@ console.log("Building amazing web experiences, one line of code at a time. ✨")
 
 ---
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,45,120,250&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3282b8,50:0f4c75,100:1a1f3a&height=150&section=footer&text=Let's%20Build%20Something%20Great&fontSize=28&fontColor=00d4ff&animation=fadeIn" width="100%"/>
 
-### **Keep Building • Keep Learning • Keep Creating**
+### **Let's Connect & Collaborate** 🚀
 
-<sub>Last Updated: 2025 | Actively Improving & Learning</sub>
+<p>
+I'm always open to interesting projects, collaborations, and opportunities to build amazing web experiences.
+</p>
+
+<a href="https://github.com/ahmadkhan24623-prog">
+  <img src="https://img.shields.io/badge/GitHub-ahmadkhan24623--prog-00d4ff?style=for-the-badge&logo=github&logoColor=white&color=0f4c75"/>
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-64ffda?style=for-the-badge&logo=gmail&logoColor=white&color=0f4c75"/>
+</a>
+
+<br/>
+
+**Keep Building • Keep Learning • Keep Improving** ✨
+
+<sub>Last Updated: 2026 | Actively Building & Learning</sub>
 
 </div>
