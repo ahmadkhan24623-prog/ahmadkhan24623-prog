@@ -1,8 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f3a,50:0f4c75,100:3282b8&height=280&section=header&text=AHMAD%20KHAN&fontSize=90&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Web%20Developer%20%7C%20React%20Specialist&descAlignY=70&descSize=22&descColor=64ffda" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2e4a,25:0f4c75,50:1a5f7a,75:00b4d8,100:00d4ff&height=300&section=header&text=AHMAD%20KHAN&fontSize=100&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&fontStyle=bold&desc=Frontend%20Web%20Developer%20%7C%20React%20Specialist&descAlignY=65&descSize=24&descColor=64ffda" width="100%"/>
 
 </div>
+
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/🚀%20Building%20Premium%20Web%20Experiences-1a5f7a?style=flat&logo=rocket&logoColor=00d4ff" alt="Building Premium Web Experiences"/>
+</p>
+
+</div>
+
+---
 
 ---
 
