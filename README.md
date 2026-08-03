@@ -1,22 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2e4a,25:0f4c75,50:1a5f7a,75:00b4d8,100:00d4ff&height=300&section=header&text=AHMAD%20KHAN&fontSize=100&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&fontStyle=bold&desc=Frontend%20Web%20Developer%20%7C%20React%20Specialist&descAlignY=65&descSize=24&descColor=64ffda" width="100%"/>
-
-</div>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,30:0f172a,70:1e293b,100:0284c7&height=260&section=header&text=AHMAD%20KHAN&fontSize=70&fontColor=38bdf8&animation=fadeIn&fontAlignY=36&fontStyle=bold&desc=Frontend%20Developer%20%7C%20React%20Specialist&descAlignY=64&descSize=20&descColor=94a3b8" width="100%"/>
 
 <p>
-  <img src="https://img.shields.io/badge/🚀%20Building%20Premium%20Web%20Experiences-1a5f7a?style=flat&logo=rocket&logoColor=00d4ff" alt="Building Premium Web Experiences"/>
+  <img src="https://img.shields.io/badge/🚀%20Building%20Premium%20Web%20Experiences-0284c7?style=flat&logo=rocket&logoColor=white" alt="Building Premium Web Experiences"/>
 </p>
 
 </div>
 
 ---
-
----
-
-### 🚀 **Building Premium Web Experiences**
 
 <div align="center">
 
@@ -27,13 +19,13 @@
 <br/>
 
 <a href="https://github.com/ahmadkhan24623-prog">
-  <img src="https://img.shields.io/github/followers/ahmadkhan24623-prog?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0f4c75&color=1a1f3a&logoColor=00d4ff" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/followers/ahmadkhan24623-prog?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0f172a&color=1e293b&logoColor=38bdf8" alt="GitHub followers"/>
 </a>
 <a href="https://github.com/ahmadkhan24623-prog?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahmadkhan24623-prog&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&color=1a1f3a&labelColor=0f4c75&logo=github&logoColor=00d4ff" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahmadkhan24623-prog&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&color=1e293b&labelColor=0f172a&logo=github&logoColor=38bdf8" alt="Repositories"/>
 </a>
 <a href="https://github.com/ahmadkhan24623-prog">
-  <img src="https://komarev.com/ghpvc/?username=ahmadkhan24623-prog&style=for-the-badge&color=1a1f3a&labelColor=0f4c75&label=PROFILE%20VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ahmadkhan24623-prog&style=for-the-badge&color=1e293b&labelColor=0f172a&label=PROFILE%20VIEWS&color=38bdf8" alt="Profile Views"/>
 </a>
 
 </div>
@@ -47,9 +39,9 @@
 **Frontend Developer** focused on building beautiful, performant web applications with modern technologies.
 
 | 🎯 Role | React + TypeScript Specialist | Animation & Motion Enthusiast |
-|---------|------|------|
+|---------|------------------------------|-------------------------------|
 | 📍 Based | Rawalpindi, Pakistan | |
-| 🎓 Education | PMAS-Arid Agriculture University | |
+| 🎓 Education | PMAS-Arid Agriculture University | BS Computer Science |
 | 🌱 Growing | Next.js • Backend • Full-Stack Architecture | |
 
 ### What I Specialize In
@@ -116,21 +108,15 @@
 
 <div align="center">
 
-### Key Metrics
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadkhan24623-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadkhan24623-prog&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub Streak" />
+</p>
 
-| 📊 Metric | 📈 Value | ⏱️ Period |
-|-----------|---------|----------|
-| **Total Contributions** | 179+ | Jun 11, 2025 - Present |
-| **Current Streak** | 4 days | Jul 29 - Aug 1 |
-| **Longest Streak** | 7 days | May 18 - May 24 |
-| **Public Repositories** | 25+ | All Time |
-| **Total Followers** | Active | Growing |
-
-<br/>
-
-<a href="https://github.com/ahmadkhan24623-prog">
-  <img src="https://img.shields.io/badge/📊%20View%20My%20GitHub-00d4ff?style=for-the-badge&logoColor=white&color=0f4c75"/>
-</a>
+<!-- Activity Chart Added Below -->
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadkhan24623-prog&theme=tokyo-night&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
 
 </div>
 
@@ -146,7 +132,7 @@
 
 ### [Lotessa](https://github.com/ahmadkhan24623-prog/Lotessa) `Public`
 
-A clean, responsive landing page for Lotessa, featuring custom typography and smooth animations
+A clean, responsive landing page for Lotessa, featuring custom typography and smooth animations.
 
 **🟡 JavaScript**
 
@@ -161,7 +147,7 @@ A beautiful Happy Birthday website with animations, gallery, and special message
 
 **🟣 CSS**
 
-[View Demo](#) • [View Repo](https://github.com/ahmadkhan24623-prog/Happy-Birthday-Surprise)
+[View Repo](https://github.com/ahmadkhan24623-prog/Happy-Birthday-Surprise)
 
 </td>
 </tr>
@@ -171,7 +157,7 @@ A beautiful Happy Birthday website with animations, gallery, and special message
 
 ### [responsive-netflix-ui](https://github.com/ahmadkhan24623-prog/responsive-netflix-ui) `Public`
 
-Modern, fully responsive Netflix UI clone. Focused on high-end aesthetics, semantic structure, and seamless mobile-to-desktop transitions.
+Modern, fully responsive Netflix UI clone. Focused on high-end aesthetics and semantic structure.
 
 **🔴 HTML**
 
@@ -182,11 +168,11 @@ Modern, fully responsive Netflix UI clone. Focused on high-end aesthetics, seman
 
 ### [tic-tac-toe-pro](https://github.com/ahmadkhan24623-prog/tic-tac-toe-pro) `Public`
 
-A clean, responsive Tic Tac Toe game built with HTML5, CSS3, and Vanilla JavaScript. Features a modern UI and logic for win/draw detection
+A clean, responsive Tic Tac Toe game built with HTML5, CSS3, and Vanilla JavaScript.
 
 **🟣 CSS**
 
-[View Demo](#) • [View Repo](https://github.com/ahmadkhan24623-prog/tic-tac-toe-pro)
+[View Repo](https://github.com/ahmadkhan24623-prog/tic-tac-toe-pro)
 
 </td>
 </tr>
@@ -196,7 +182,7 @@ A clean, responsive Tic Tac Toe game built with HTML5, CSS3, and Vanilla JavaScr
 
 ### [aeroluxe-private-jet](https://github.com/ahmadkhan24623-prog/aeroluxe-private-jet) `Public`
 
-A premium, high-end landing page template for bespoke private aviation and elite concierge services, built with React, Tailwind CSS, and Lucide Icons.
+A premium, high-end landing page template for bespoke private aviation and elite concierge services.
 
 **🔵 TypeScript**
 
@@ -211,7 +197,7 @@ An interactive portfolio built with Anime.js, showcasing smooth animations and c
 
 **🟣 CSS**
 
-[View Demo](#) • [View Repo](https://github.com/ahmadkhan24623-prog/animejs-portfolio)
+[View Repo](https://github.com/ahmadkhan24623-prog/animejs-portfolio)
 
 </td>
 </tr>
@@ -234,7 +220,7 @@ An interactive portfolio built with Anime.js, showcasing smooth animations and c
 </p>
 
 <a href="https://github.com/ahmadkhan24623-prog?tab=repositories">
-  <img src="https://img.shields.io/badge/👉%20Explore%20All%20Repositories-00d4ff?style=for-the-badge&logoColor=white&color=0f4c75"/>
+  <img src="https://img.shields.io/badge/👉%20Explore%20All%20Repositories-0284c7?style=for-the-badge&logoColor=white&color=0f172a"/>
 </a>
 
 </div>
@@ -249,14 +235,14 @@ An interactive portfolio built with Anime.js, showcasing smooth animations and c
 |-------|-------|------------|
 | **Frontend Engineering** | ⭐⭐⭐⭐⭐ | Advanced (90%) |
 | **React & Hooks** | ⭐⭐⭐⭐⭐ | Advanced (88%) |
-| **TypeScript** | ⭐⭐⭐⭐☆ | Intermediate (75%) |
+| **TypeScript** | ⭐⭐⭐⭐⭐ | Advanced (90%) |
 | **Tailwind CSS** | ⭐⭐⭐⭐⭐ | Advanced (92%) |
 | **GSAP & Animations** | ⭐⭐⭐⭐⭐ | Advanced (85%) |
 | **Responsive Design** | ⭐⭐⭐⭐⭐ | Advanced (95%) |
 | **JavaScript (ES6+)** | ⭐⭐⭐⭐⭐ | Advanced (90%) |
 | **Next.js** | ⭐⭐⭐⭐☆ | Intermediate (78%) |
 | **Data Structures & Algorithms** | ⭐⭐⭐☆☆ | Intermediate (65%) |
-| **C++** | ⭐⭐⭐☆☆ | Intermediate (70%) |
+| **C++** | ⭐⭐⭐⭐⭐ | Advanced (90%) |
 | **Git & GitHub** | ⭐⭐⭐⭐⭐ | Advanced (95%) |
 | **Backend Development** | ⭐⭐⭐☆☆ | Expanding (45%) |
 
@@ -264,17 +250,16 @@ An interactive portfolio built with Anime.js, showcasing smooth animations and c
 
 ## 🚀 Development Roadmap
 
-```
-✅ COMPLETED                          🔄 IN PROGRESS                   📅 COMING SOON
-├─ HTML5 & CSS3                       ├─ Next.js Mastery              ├─ Full-Stack Apps
-├─ JavaScript (ES6+)                  ├─ Backend Development          ├─ GraphQL
-├─ React.js & Hooks                   ├─ REST APIs & Databases        ├─ Cloud Deployment
-├─ TypeScript                         ├─ Authentication & Security    ├─ DevOps
-├─ Tailwind CSS                       └─ Advanced Performance         └─ System Design
-├─ GSAP & Framer Motion
-├─ Responsive Design
-└─ Git & GitHub Workflows
-```
+| ✅ Completed | 🔄 In Progress | 📅 Coming Soon |
+| :--- | :--- | :--- |
+| • HTML5 & CSS3 | • Next.js Mastery | • Full-Stack Apps |
+| • JavaScript (ES6+) | • Backend Development | • GraphQL |
+| • React.js & Hooks | • REST APIs & Databases | • Cloud Deployment |
+| • TypeScript | • Authentication & Security | • DevOps |
+| • Tailwind CSS | • Advanced Performance | • System Design |
+| • GSAP & Framer Motion | | |
+| • Responsive Design | | |
+| • Git & GitHub Workflows | | |
 
 ---
 
@@ -306,7 +291,6 @@ An interactive portfolio built with Anime.js, showcasing smooth animations and c
 ### **Reach Out & Collaborate**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ahmadkhan24623--prog-181717?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=1f6feb)](https://github.com/ahmadkhan24623-prog)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 **Open to:**
@@ -321,8 +305,6 @@ An interactive portfolio built with Anime.js, showcasing smooth animations and c
 
 ## 📝 Latest Blog Insights
 
-*Stay updated on web development tips, tutorials, and project breakdowns.*
-
 ```javascript
 // My Development Philosophy
 const myApproach = {
@@ -334,33 +316,3 @@ const myApproach = {
 };
 
 console.log("Building amazing web experiences, one line of code at a time. ✨");
-```
-
----
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3282b8,50:0f4c75,100:1a1f3a&height=150&section=footer&text=Let's%20Build%20Something%20Great&fontSize=28&fontColor=00d4ff&animation=fadeIn" width="100%"/>
-
-### **Let's Connect & Collaborate** 🚀
-
-<p>
-I'm always open to interesting projects, collaborations, and opportunities to build amazing web experiences.
-</p>
-
-<a href="https://github.com/ahmadkhan24623-prog">
-  <img src="https://img.shields.io/badge/GitHub-ahmadkhan24623--prog-00d4ff?style=for-the-badge&logo=github&logoColor=white&color=0f4c75"/>
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-64ffda?style=for-the-badge&logo=gmail&logoColor=white&color=0f4c75"/>
-</a>
-
-<br/>
-
-**Keep Building • Keep Learning • Keep Improving** ✨
-
-<sub>Last Updated: 2026 | Actively Building & Learning</sub>
-
-</div>
