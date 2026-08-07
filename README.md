@@ -130,6 +130,31 @@
 <tr>
 <td width="50%" valign="top">
 
+### [aeroluxe-private-jet](https://github.com/ahmadkhan24623-prog/aeroluxe-private-jet) `Public`
+
+A premium, high-end landing page template for bespoke private aviation and elite concierge services, built with React, Tailwind CSS, and Lucide Icons.
+
+**🔵 TypeScript**
+
+[View Demo](https://aeroluxe-private-jet.vercel.app) • [View Repo](https://github.com/ahmadkhan24623-prog/aeroluxe-private-jet)
+
+</td>
+<td width="50%" valign="top">
+
+### [gsap_macbook_landing](https://github.com/ahmadkhan24623-prog/gsap_macbook_landing) `Public`
+
+Interactive Apple MacBook landing page clone featuring smooth GSAP scroll animations and high-end interactive UI design.
+
+**🟡 JavaScript**
+
+[View Repo](https://github.com/ahmadkhan24623-prog/gsap_macbook_landing)
+
+</td>
+</tr>
+<tr height="20"></tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [Lotessa](https://github.com/ahmadkhan24623-prog/Lotessa) `Public`
 
 A clean, responsive landing page for Lotessa, featuring custom typography and smooth animations.
@@ -141,63 +166,38 @@ A clean, responsive landing page for Lotessa, featuring custom typography and sm
 </td>
 <td width="50%" valign="top">
 
-### [Happy-Birthday-Surprise](https://github.com/ahmadkhan24623-prog/Happy-Birthday-Surprise) `Public`
-
-A beautiful Happy Birthday website with animations, gallery, and special message at end.
-
-**🟣 CSS**
-
-[View Repo](https://github.com/ahmadkhan24623-prog/Happy-Birthday-Surprise)
-
-</td>
-</tr>
-<tr height="20"></tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [responsive-netflix-ui](https://github.com/ahmadkhan24623-prog/responsive-netflix-ui) `Public`
 
-Modern, fully responsive Netflix UI clone. Focused on high-end aesthetics and semantic structure.
+Modern, fully responsive Netflix UI clone. Focused on high-end aesthetics, semantic structure, and seamless mobile-to-desktop transitions.
 
 **🔴 HTML**
 
 [View Demo](https://responsive-netflix-ui-d2jj.vercel.app) • [View Repo](https://github.com/ahmadkhan24623-prog/responsive-netflix-ui)
 
 </td>
-<td width="50%" valign="top">
-
-### [tic-tac-toe-pro](https://github.com/ahmadkhan24623-prog/tic-tac-toe-pro) `Public`
-
-A clean, responsive Tic Tac Toe game built with HTML5, CSS3, and Vanilla JavaScript.
-
-**🟣 CSS**
-
-[View Repo](https://github.com/ahmadkhan24623-prog/tic-tac-toe-pro)
-
-</td>
 </tr>
 <tr height="20"></tr>
 <tr>
 <td width="50%" valign="top">
 
-### [aeroluxe-private-jet](https://github.com/ahmadkhan24623-prog/aeroluxe-private-jet) `Public`
+### [Tail-Admin](https://github.com/ahmadkhan24623-prog/Tail-Admin) `Public`
 
-A premium, high-end landing page template for bespoke private aviation and elite concierge services.
+Modern and responsive admin dashboard template built with TypeScript and Tailwind CSS, featuring rich analytics layouts.
 
 **🔵 TypeScript**
 
-[View Demo](https://aeroluxe-private-jet.vercel.app) • [View Repo](https://github.com/ahmadkhan24623-prog/aeroluxe-private-jet)
+[View Repo](https://github.com/ahmadkhan24623-prog/Tail-Admin)
 
 </td>
 <td width="50%" valign="top">
 
-### [animejs-portfolio](https://github.com/ahmadkhan24623-prog/animejs-portfolio) `Public`
+### [tic-tac-toe-pro](https://github.com/ahmadkhan24623-prog/tic-tac-toe-pro) `Public`
 
-An interactive portfolio built with Anime.js, showcasing smooth animations and creative interactions.
+A clean, responsive Tic Tac Toe game built with HTML5, CSS3, and Vanilla JavaScript. Features a modern UI and logic for win/draw detection.
 
 **🟣 CSS**
 
-[View Repo](https://github.com/ahmadkhan24623-prog/animejs-portfolio)
+[View Repo](https://github.com/ahmadkhan24623-prog/tic-tac-toe-pro)
 
 </td>
 </tr>
@@ -217,7 +217,7 @@ An interactive portfolio built with Anime.js, showcasing smooth animations and c
   <a href="https://github.com/ahmadkhan24623-prog/responsive-netflix-ui">Netflix UI</a> • 
   <a href="https://github.com/ahmadkhan24623-prog/Tail-Admin">Tail Admin</a> • 
   <a href="https://github.com/ahmadkhan24623-prog/tic-tac-toe-pro">Tic Tac Toe</a> • 
-  <a href="https://github.com/ahmadkhan24623-prog/K72">K72</a> •
+  <a href="https://github.com/ahmadkhan24623-prog/K72">K72</a> • 
   <a href="https://github.com/ahmadkhan24623-prog/sundown">Sundown</a> • 
   <a href="https://github.com/ahmadkhan24623-prog/Hero-Section">Hero Section</a>
 </p>
