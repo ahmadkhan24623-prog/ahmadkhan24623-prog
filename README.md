@@ -212,9 +212,12 @@ An interactive portfolio built with Anime.js, showcasing smooth animations and c
 <div align="center">
 
 <p>
-  <a href="https://github.com/ahmadkhan24623-prog/K72">K72</a> • 
+  <a href="https://github.com/ahmadkhan24623-prog/gsap_macbook_landing">MacBook Landing</a> • 
+  <a href="https://github.com/ahmadkhan24623-prog/Lotessa">Lotessa</a> • 
+  <a href="https://github.com/ahmadkhan24623-prog/responsive-netflix-ui">Netflix UI</a> • 
   <a href="https://github.com/ahmadkhan24623-prog/Tail-Admin">Tail Admin</a> • 
-  <a href="https://github.com/ahmadkhan24623-prog/Tattoo-Home-Page">Tattoo</a> • 
+  <a href="https://github.com/ahmadkhan24623-prog/tic-tac-toe-pro">Tic Tac Toe</a> • 
+  <a href="https://github.com/ahmadkhan24623-prog/K72">K72</a> •
   <a href="https://github.com/ahmadkhan24623-prog/sundown">Sundown</a> • 
   <a href="https://github.com/ahmadkhan24623-prog/Hero-Section">Hero Section</a>
 </p>
