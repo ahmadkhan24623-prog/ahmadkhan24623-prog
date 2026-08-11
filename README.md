@@ -32,16 +32,16 @@
 
 ---
 
-## 💼 About  Me
+## 💼 About Me
 
 <div align="left">
 
-**Frontend Developer** focused on building beautiful, performant web applications with modern technologies.
+Frontend Developer focused on building beautiful, performant web applications with modern technologies.
 
 | 🎯 Role | React + TypeScript Specialist | Animation & Motion Enthusiast |
 |---------|------------------------------|-------------------------------|
 | 📍 Based | Rawalpindi, Pakistan | |
-| 🎓 Education | PMAS-Arid Agriculture University | BS Computer Science |
+| 🎓 Education | PMAS Arid Agriculture University | BS Computer Science |
 | 🌱 Growing | Next.js • Backend • Full-Stack Architecture | |
 
 ### What I Specialize In
@@ -113,7 +113,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadkhan24623-prog&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub Streak" />
 </p>
 
-<!-- Activity Chart Added Below -->
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadkhan24623-prog&theme=tokyo-night&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
@@ -147,7 +146,7 @@ Interactive Apple MacBook landing page clone featuring smooth GSAP scroll animat
 
 **🟡 JavaScript**
 
-[View Repo](https://github.com/ahmadkhan24623-prog/gsap_macbook_landing)
+[View Demo](https://gsap-macbook-landing.vercel.app) • [View Repo](https://github.com/ahmadkhan24623-prog/gsap_macbook_landing)
 
 </td>
 </tr>
@@ -207,18 +206,13 @@ A clean, responsive Tic Tac Toe game built with HTML5, CSS3, and Vanilla JavaScr
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Other Notable Projects
 
 <div align="center">
 
 <p>
-  <a href="https://github.com/ahmadkhan24623-prog/gsap_macbook_landing">MacBook Landing</a> • 
-  <a href="https://github.com/ahmadkhan24623-prog/Lotessa">Lotessa</a> • 
-  <a href="https://github.com/ahmadkhan24623-prog/responsive-netflix-ui">Netflix UI</a> • 
-  <a href="https://github.com/ahmadkhan24623-prog/Tail-Admin">Tail Admin</a> • 
-  <a href="https://github.com/ahmadkhan24623-prog/tic-tac-toe-pro">Tic Tac Toe</a> • 
-  <a href="https://github.com/ahmadkhan24623-prog/K72">K72</a> • 
-  <a href="https://github.com/ahmadkhan24623-prog/sundown">Sundown</a> • 
+  <a href="https://github.com/ahmadkhan24623-prog/K72">K72 Clone</a> • 
+  <a href="https://github.com/ahmadkhan24623-prog/sundown">Sundown Studio</a> • 
   <a href="https://github.com/ahmadkhan24623-prog/Hero-Section">Hero Section</a>
 </p>
 
