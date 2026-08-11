@@ -109,8 +109,12 @@ Frontend Developer focused on building beautiful, performant web applications wi
 <div align="center">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadkhan24623-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadkhan24623-prog&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub Streak" />
+  <a href="https://github.com/ahmadkhan24623-prog">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmadkhan24623-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ahmadkhan24623-prog">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadkhan24623-prog&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p>
