@@ -118,7 +118,7 @@ Frontend Developer focused on building beautiful, performant web applications wi
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadkhan24623-prog&theme=tokyo-night&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=ahmadkhan24623-prog&theme=tokyo-night&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 </div>
